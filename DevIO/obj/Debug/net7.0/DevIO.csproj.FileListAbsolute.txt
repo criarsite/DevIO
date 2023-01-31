@@ -1,0 +1,825 @@
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\appsettings.Development.json
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\appsettings.json
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\DevIO.staticwebassets.runtime.json
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\DevIO.exe
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\DevIO.deps.json
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\DevIO.runtimeconfig.json
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\DevIO.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\DevIO.pdb
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Azure.Core.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Azure.Identity.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Humanizer.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.CodeDom.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.csproj.AssemblyReference.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.AssemblyInfoInputs.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.AssemblyInfo.cs
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.csproj.CoreCompileInputs.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.RazorAssemblyInfo.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.RazorAssemblyInfo.cs
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.DevIO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.build.DevIO.props
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DevIO.props
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DevIO.props
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\staticwebassets.build.json
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\staticwebassets.development.json
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\scopedcss\bundle\DevIO.styles.css
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\scopedcss\projectbundle\DevIO.bundle.scp.css
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.csproj.CopyComplete
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\refint\DevIO.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.pdb
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\DevIO.genruntimeconfig.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\obj\Debug\net7.0\ref\DevIO.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\appsettings.Development.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\appsettings.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.staticwebassets.runtime.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.exe
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.deps.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.runtimeconfig.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.pdb
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Azure.Core.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Azure.Identity.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Humanizer.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.CodeDom.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.csproj.AssemblyReference.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.AssemblyInfoInputs.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.AssemblyInfo.cs
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.csproj.CoreCompileInputs.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.RazorAssemblyInfo.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.RazorAssemblyInfo.cs
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.DevIO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.build.DevIO.props
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DevIO.props
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DevIO.props
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets.build.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets.development.json
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\scopedcss\bundle\DevIO.styles.css
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\scopedcss\projectbundle\DevIO.bundle.scp.css
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.csproj.CopyComplete
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\refint\DevIO.dll
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.pdb
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.genruntimeconfig.cache
+C:\Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\ref\DevIO.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\appsettings.Development.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\appsettings.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.staticwebassets.runtime.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.exe
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.deps.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.runtimeconfig.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\DevIO.pdb
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Azure.Core.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Azure.Identity.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Humanizer.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Build.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Common.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.CodeDom.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Memory.Data.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.csproj.AssemblyReference.cache
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.AssemblyInfoInputs.cache
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.AssemblyInfo.cs
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.csproj.CoreCompileInputs.cache
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.MvcApplicationPartsAssemblyInfo.cache
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.RazorAssemblyInfo.cache
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.RazorAssemblyInfo.cs
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.DevIO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.build.DevIO.props
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DevIO.props
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DevIO.props
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets.pack.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets.build.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\staticwebassets.development.json
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\scopedcss\bundle\DevIO.styles.css
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\scopedcss\projectbundle\DevIO.bundle.scp.css
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.csproj.CopyComplete
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\refint\DevIO.dll
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.pdb
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\DevIO.genruntimeconfig.cache
+C:\.NET Workspace\Projetos\Asp.Net\DevIO\DevIO\obj\Debug\net7.0\ref\DevIO.dll
